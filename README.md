@@ -1,22 +1,175 @@
-<h1 align="center">Hi 👋, I'm Hemant</h1>
-<h3 align="center">A passionate FullStack developer from Bengaluru</h3>
+<h1 align="center">Hey 👋, I'm Hemant Sharma</h1>
 
-- 🌱 I’m currently learning **Development**
+<h3 align="center">
+AI & Full Stack Developer • IIT Guwahati <br/>
+Building scalable AI-powered products & modern web experiences
+</h3>
 
-- 💬 Ask me about **Code**
-
-- 📫 How to reach me **hemantsharmainsan6@gmail.com**
-
-- ⚡ Fun fact **I code like Ninja**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hemant-sharmame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant-sharmame" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Workflow+Builder;FastAPI+%2B+React+Developer;Building+Production+Ready+Applications;Open+Source+Enthusiast" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant-14942&show_icons=true&locale=en&layout=compact" alt="hemant-14942" /></p>
+# 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemant-14942&show_icons=true&locale=en" alt="hemant-14942" /></p>
+🎓 B.S. in Data Science & Artificial Intelligence at <b>IIT Guwahati</b>  
+💡 Passionate about AI products, scalable backend systems, and modern UI/UX  
+⚡ Building AI-powered full stack applications using React, FastAPI, Node.js & LLM APIs  
+🏆 Top 10 at Physics Wallah TechSangam Hackathon  
+📈 Interested in AI Workflows, RAG Systems, and Product Engineering  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/hemant-sharmame" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="mailto:hemantinsan6@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
+</p>
+
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+</p>
+
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+## ☁️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,postman" />
+</p>
+
+## 🤖 AI & Productivity
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</p>
+
+---
+
+# 💼 Experience
+
+## 🧠 Backend Developer — Physics Wallah (Sahara)
+
+- Built backend systems for ADHD support platform
+- Designed parent-facing analytics & recommendation APIs
+- Implemented scalable RBAC architecture
+- Worked with Node.js, PostgreSQL & TypeScript
+
+## 🌍 Full Stack Developer Intern — Ghumio Technologies
+
+- Built scalable travel booking platform
+- Developed REST APIs & booking workflows
+- Implemented secure authentication systems
+- Optimized MongoDB schemas & deployments
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 WebGenie AI
+AI-powered website builder that converts prompts into deployable websites.
+
+### 🔥 Features
+- Prompt → Website generation
+- Real-time AI chat refinement
+- Stripe payment integration
+- Workspace isolation
+- Authentication system
+
+### 🛠️ Stack
+`Next.js` `React` `TypeScript` `MongoDB` `Express` `LLM APIs`
+
+---
+
+## 👕 Trybe
+GenZ Fashion E-Commerce Platform with customization workflows.
+
+### 🔥 Features
+- Real-time customization
+- Shopping cart & checkout
+- Product management
+- Modern responsive UI
+
+### 🛠️ Stack
+`React` `Node.js` `Express`
+
+---
+
+## 🏥 Hospital Management System
+
+### 🔥 Features
+- Appointment scheduling
+- Patient records
+- Doctor assignment workflows
+- Admin dashboard
+
+### 🛠️ Stack
+`React` `Node.js` `MongoDB`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemant-14942&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-14942&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemant-14942&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+🥇 Top 10 — Physics Wallah TechSangam Hackathon  
+🥉 3rd Place — Power BI Hackathon  
+
+---
+
+# 📈 Contribution Graph
+
+[![Hemant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemant-14942&theme=tokyo-night)](https://github.com/Hemant-14942)
+
+---
+
+# 💡 Current Focus
+
+```python
+class HemantSharma:
+
+    def __init__(self):
+        self.learning = [
+            "AI Workflows",
+            "RAG Systems",
+            "Scalable Backend Architecture",
+            "Advanced React",
+            "LLM Integrations"
+        ]
+
+    def life_philosophy(self):
+        return "Build. Learn. Ship. Repeat."
